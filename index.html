@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduSkillQuest - Online Test Platform</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+</head>
+<body>
+    <header>
+        <img src="https://i.ibb.co/bF0kdh2/logo.png" alt="EduSkillQuest Logo" class="logo">
+        <nav>
+            <ul>
+                <li>EduSkillQuest</li>
+                <li>-</li>
+                <li>Personalized Learning through Test Analysis</li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="test">
+            <div class="test-header">
+                <h2>Probability</h2>
+                <p>Time Left: <span id="timer">30:00</span></p>
+            </div>
+            <div class="question-container">
+                <div class="question-number">
+                    Question No: <span id="question-number">1</span>
+                </div>
+                <div class="question-text">
+                    <p id="question-text">The largest muscle in the human is</p>
+                </div>
+                <div class="options">
+                    <label>
+                        <input type="radio" name="answer" value="A">
+                        <span id="option-A">Biceps</span>
+                    </label>
+                    <label>
+                        <input type="radio" name="answer" value="B">
+                        <span id="option-B">Gluteus maximus</span>
+                    </label>
+                    <label>
+                        <input type="radio" name="answer" value="C">
+                        <span id="option-C">Stapedius</span>
+                    </label>
+                    <label>
+                        <input type="radio" name="answer" value="D">
+                        <span id="option-D">Masseter</span>
+                    </label>
+                </div>
+                <div class="actions">
+                    <button onclick="saveAnswer()">Save</button>
+                    <button onclick="reviewLater()">Review Later</button>
+                    <button onclick="clearSelection()">Clear Selection</button>
+                    <button onclick="previousQuestion()">Previous Question</button>
+                    <button onclick="nextQuestion()">Next Question</button>
+                </div>
+            </div>
+            <div class="question-overview">
+                <p>Question overview:</p>
+                <div class="question-status">
+                    <!-- Add question status circles dynamically -->
+                </div>
+                <div class="legend">
+                    <span class="attempted"></span> Attempted
+                    <span class="not-attempted"></span> Not Attempted
+                    <span class="to-be-reviewed"></span> To be reviewed
+                    <span class="not-viewed"></span> Not viewed yet
+                </div>
+            </div>
+            <div class="submit">
+                <button onclick="submitTest()">Finish</button>
+            </div>
+        </section>
+
+        <!-- Popup Modal -->
+        <div id="result-modal" class="modal">
+            <div class="modal-content">
+                <span class="close" onclick="closeModal()">&times;</span>
+                <p id="result-text">Your Marks are: 0</p>
+                <p id="retest-suggestion"></p>
+                <button onclick="retest()">Retest</button>
+                <button onclick="studyMore()">Study More</button>
+            </div>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

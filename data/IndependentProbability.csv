@@ -1,0 +1,21 @@
+Question Text,Option A,Option B,Option C,Option D,Correct Answer
+What is the probability of drawing an ace from a standard deck of 52 cards?,1/52,1/13,1/26,1/4,B
+Two dice are rolled. What is the probability that both dice show a 6?,1/36,1/18,1/12,1/6,A
+If the probability of event A is 0.3 and the probability of event B is 0.5. what is the probability of both A and B occurring if they are independent?,0.15,0.80,0.20,0.50,A
+The probability of flipping a coin and getting heads is 0.5. What is the probability of getting heads twice in a row?,0.25,0.50,0.75,1.00,A
+If two events A and B are independent and P(A)=0.4 and P(B)=0.6. what is P(A and B)?,0.10,0.24,0.40,0.60,B
+A box contains 3 red 4 blue and 5 green balls. If two balls are drawn with replacement. what is the probability of drawing a red and then a blue ball?,0.10,0.12,0.14,0.16,C
+The probability of drawing a heart from a deck of cards is 1/4. What is the probability of drawing two hearts in a row with replacement?,1/8,1/16,1/4,1/2,B
+If a fair die is rolled twice. what is the probability of getting a 3 on the first roll and a 5 on the second roll?,1/36,1/18,1/12,1/6,A
+The probability of a student passing a test is 0.7. What is the probability that two students pass their tests?,0.49,0.70,0.91,1.00,A
+If the probability of event A is 0.2 and the probability of event B is 0.3. what is the probability of both A and B occurring if they are independent?,0.06,0.20,0.50,0.60,A
+A coin is flipped and a die is rolled. What is the probability of getting heads on the coin and a 4 on the die?,1/12,1/24,1/6,1/8,A
+If the probability of an event is 0.2. what is the probability that the event does not occur?,0.8,0.2,1.0,0.5,A
+A box contains 10 marbles: 3 red 4 blue and 3 green. If one marble is drawn what is the probability that it is either red or blue?,0.3,0.4,0.7,0.5,C
+If the probability of rain on Saturday is 0.4 and the probability of rain on Sunday is 0.6 . what is the probability of rain on both days assuming independence?,0.24,0.50,0.10,0.60,A
+Two cards are drawn with replacement from a deck of cards. What is the probability of drawing a queen and then a king?,1/169,1/144,1/52,1/13,B
+If the probability of drawing an ace from a deck of cards is 1/13 . what is the probability of drawing two aces in a row with replacement?,1/169,1/144,1/52,1/13,A
+The probability of rolling a 6 on a fair die is 1/6. What is the probability of rolling two sixes in a row?,1/36,1/18,1/12,1/6,A
+A fair coin is flipped three times. What is the probability of getting heads on all three flips?,1/8,1/4,1/2,1/16,A
+If the probability of event A is 0.4 and the probability of event B is 0.5. what is the probability of either A or B occurring if they are independent?,0.70,0.90,1.00,0.50,A
+Two independent events A and B have probabilities of 0.3 and 0.4 respectively. What is the probability of neither A nor B occurring?,0.42,0.70,0.18,0.12,C

@@ -1,0 +1,21 @@
+Question Text,Option A,Option B,Option C,Option D,Correct Answer
+If 1% of the population has a disease and a test for the disease is 99% accurate. what is the probability that a person has the disease given a positive test result?,0.5,0.1,0.09,0.01,C
+A factory produces 2% defective items. If an item is tested positive for defectiveness. what is the probability that it is actually defective given that the test is 95% accurate?,0.287,0.304,0.675,0.751,B
+If the probability of A is 0.3 and the probability of B given A is 0.4. what is the probability of A given B?,0.12,0.2,0.3,0.4,A
+The probability of event A is 0.4 and the probability of event B given A is 0.5. What is the joint probability of A and B?,0.2,0.5,0.6,0.7,A
+If 5% of people have a rare disease and a test for the disease is 90% accurate. what is the probability that a person has the disease given a positive test result?,0.321,0.357,0.419,0.475,B
+A factory produces 1% defective items. If an item is tested positive for defectiveness. what is the probability that it is actually defective given that the test is 98% accurate?,0.324,0.364,0.396,0.418,B
+If 2% of the population has a certain disease and the test for it is 95% accurate. what is the probability that a person has the disease given a positive test result?,0.287,0.304,0.675,0.751,B
+The probability of event A is 0.1 and the probability of event B given A is 0.9. What is the probability of A given B?,0.09,0.1,0.11,0.12,C
+If 3% of people are left-handed and 10% of left-handed people are artists. what is the probability that a person is left-handed given that they are an artist?,0.2,0.3,0.4,0.5,C
+A test for a disease is 95% accurate. If 2% of the population has the disease. what is the probability that a person has the disease given a positive test result?,0.287,0.304,0.675,0.751,B
+The probability of an event A is 0.2 and the probability of event B given A is 0.5. What is the joint probability of A and B?,0.1,0.2,0.3,0.4,A
+If the probability of A is 0.4 and the probability of B given A is 0.6. what is the probability of A given B?,0.24,0.4,0.5,0.6,B
+A factory produces 3% defective items. If an item is tested positive for defectiveness. what is the probability that it is actually defective given that the test is 95% accurate?,0.48,0.5,0.52,0.54,C
+The probability of event A is 0.3 and the probability of event B given A is 0.4. What is the probability of A given B?,0.12,0.2,0.3,0.4,A
+If 10% of people have a rare disease and a test for the disease is 90% accurate. what is the probability that a person has the disease given a positive test result?,0.5,0.55,0.6,0.65,B
+A test for a disease is 98% accurate. If 1% of the population has the disease. what is the probability that a person has the disease given a positive test result?,0.324,0.364,0.396,0.418,B
+The probability of event A is 0.2 and the probability of event B given A is 0.5. What is the joint probability of A and B?,0.1,0.2,0.3,0.4,A
+If the probability of A is 0.4 and the probability of B given A is 0.6. what is the probability of A given B?,0.24,0.4,0.5,0.6,B
+A factory produces 5% defective items. If an item is tested positive for defectiveness. what is the probability that it is actually defective given that the test is 95% accurate?,0.48,0.5,0.52,0.54,C
+The probability of event A is 0.3 and the probability of event B given A is 0.4. What is the probability of A given B?,0.12,0.2,0.3,0.4,A
